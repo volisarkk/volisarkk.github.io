@@ -1,0 +1,317 @@
+*{margin: 0; padding: 0;}
+
+.header {
+    background: #087dc2; height: 50px; color: white;
+}
+
+body{
+    background: white; background-size: cover;
+}
+
+.menu1 li {
+    float: left; margin-right: 40px; border-left: 1px solid white; border-right: 1px solid white; padding: 17px; font: 14px sans-serif
+}
+
+.menu2 li{
+    float: left; margin-left: 40px; padding: 17px; background: #f44336; font: 14px sans-serif; 
+}
+
+.menu1 {
+    float: left; list-style: none; margin-left: 145px; 
+}
+
+.menu2 {
+    float: right; list-style: none; margin-right: 15px;
+}
+
+.logo1 {
+    margin-top: 10px; margin-left: 10px; float: left;
+}
+
+.logo3 {
+    margin-top: 11px; margin-right: 10px; 
+}
+
+.footer {
+    width: 100%; height: 90px; background: #dddddd; border-top: 1px solid #f44336; 
+}
+.footer2 {
+    width: 100%; height: 90px; background: #dddddd; border-top: 1px solid #f44336; 
+}
+.footer2 {
+    width: 100%; height: 90px; background: #dddddd; position: absolute; bottom: -90px; border-top: 1px solid #f44336; 
+}
+
+.menu3 {
+    color: black; list-style: none; float: right; margin-right: 99px; 
+}
+
+.menu3 li{
+    float: left; margin-left: 37px; padding: 36px; font: 14px sans-serif; 
+}
+.logo2 {
+    margin-top: 7px; float: left; width: 100%;
+}
+
+
+
+.clear {
+    clear: both;
+}
+
+.menu4 {
+    color: #087dc2; list-style: none;  margin-right: 10px; font: 18px sans-serif; font-weight: bold; margin-top: 100px; 
+}
+
+.menu4 li{
+    margin-bottom: 50px; 
+}
+/*.reisi {
+    width: 400px; height: 100px; background: #087dc2; position: absolute;
+    left: 50%; border: solid #f44336; 
+margin-left: -200px; top: 50%}*/
+.reisi {
+    width: 1063px; height: 450px; background: url(img/6.JPG); background-size: cover; border: 1px solid #f44336;
+      
+margin-left: 10px; top: 23%; padding-bottom: 50px; margin-top: 12px; margin-bottom: 7px;}
+
+.reisi_item_title1 {
+    float: left; margin-left: 200px; margin-top: 250px; color: black;
+}
+
+.city1 {
+    margin-top: 250px; float: left; margin-left: 20px
+}
+
+.city2 {
+    margin-top: 10px; float: right; margin-right: 10px; 
+}
+
+
+
+.reisi_knop_style {
+    float: right; margin-top: 10px; margin-right: 10px; width: 117px; display: block; 
+}
+
+
+
+.news {
+  width: 1070px; height: auto; background: white;  float: left; margin-left: 10px; margin-top: 10px
+   
+}
+
+.news_item {
+    width: 1070px; border-top: 1px solid #f44336; 
+}
+.news_item p{
+    font: 14px sans-serif; margin-top: 5px; margin-bottom: 5px; color: black
+}
+.news_item li{
+    border-top: 1px solid #f44336; padding-top: 15px; padding-bottom: 15px;
+}
+.news_item a{
+color: #f44336; font: 20px sans-serif; text-decoration: none; 
+}
+.news_item a:hover{
+text-decoration: underline; 
+}
+.news_item span{
+font: 14px sans-serif; padding-bottom: 5px; color: #087dc2; display: block;
+}
+
+.menu5 {
+    list-style: none;
+}
+
+.menu6 {
+    font: 20px sans-serif; color: #087dc2; font-weight: bold; margin-left: 10px; padding-top: 9px;
+}
+
+.menu7 {
+    line-height: 1.3; margin-left: 10px; 
+}
+.menu7 li{
+    margin-bottom: 2px; font: 14px sans-serif
+}
+
+.reisi_item_title2 {
+ margin-left: 20px; margin-top: 20px; color: black;
+}
+
+.reisi_item_title {
+    float: left; margin-left: 200px; margin-top: 250px; color: black;
+}
+
+.reisi_otpr {
+    width: 33%; float: left; outline: 1px solid red; 
+}
+
+.reisi_par {
+    width: 33%; float: left; margin-left: 2px; font-weight: bold; color: black; margin-bottom: 20px; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.find {
+    margin-top: 30px
+}
+
+.find_but {
+    width: 120px; height: 30px; display: block; margin: 0 auto; background: #087dc2; color: white; 
+}
+
+.right_menu {
+    float: right; 
+}
+
+
+
+.news {
+  width: 1070px; height: auto; background: white;  float: left; margin-left: 10px; margin-top: 10px;
+   
+}
+
+.about {
+    width: 79%; height: auto; background: white;  float: left; margin-left: 10px; margin-top: 10px; margin-bottom: 10px; 
+}
+ 
+
+
+.cartinka {
+    float: left; height: auto; width: 600px; padding-right: 10px; padding-bottom: 10px;
+}
+
+.uslugi {
+   width: 77%; height: auto; background: white;  float: left; margin-left: 25px; margin-top: 10px; margin-bottom: 10px 
+}
+
+.uslugi_tile {
+    margin-left: 30px; font: 20px sans-serif; color: #f44336;
+}
+.reg {
+    width: 350px; height: auto; background: #087dc2; margin: 0 auto; padding: 10px; margin-top: 4%; margin-bottom: 8% 
+}
+.reg2 {
+    width: 350px; height: auto; background: #087dc2; margin: 0 auto; padding: 10px; margin-top: 8%; margin-bottom: 13% 
+}
+.reg_par {
+    margin-bottom: 10px; margin-left: 10%; color: white;
+}
+.reg_par2 {
+    margin-bottom: 15px; margin-left: 10%; color: white;
+}
+.reg_data {
+    float: right; margin-right: 10%; 
+}
+.reg_data2 {
+    float: right; margin-right: 10%; width: 138px; 
+}
+.reg a{
+color: #dddddd; font: 20px sans-serif; text-decoration: none; 
+}
+.reg_title {
+    text-align: center; margin-bottom: 15px; margin-top: 5px;
+}
+.reg b{
+color: white; font: 14px sans-serif; text-decoration: none; 
+}
+.reg2 a{
+color: #dddddd; font: 20px sans-serif; text-decoration: none; 
+}
+.reg2 b{
+color: white; font: 14px sans-serif; text-decoration: none; 
+}
+.go1 {
+    margin-top: 15px; 
+}
+.go1_but {
+    width: 150px; height: 30px; display: block; margin: 0 auto; background: #00ff00; color: white; font: 14px sans-serif
+}
+.go2 {
+    margin-top: 15px; 
+}
+.go2_but {
+    width: 100px; height: 30px; display: block; margin: 0 auto; background: #f44336; color: white; font: 14px sans-serif
+}
+
+.menu3 a {
+    display: inline-block;
+    color:black;
+    line-height: 1;
+    text-decoration:none;
+    cursor: pointer;
+}
+.menu3 a:after {
+    background-color: #087dc2;
+    display: block;
+    content: "";
+    height: 2px;
+    width: 0%;
+    -webkit-transition: width .3s ease-in-out;
+    -moz--transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+.menu3 a:hover:after,
+.menu3 a:focus:after {
+    width: 100%;
+}
+
+.menu2 a {
+    text-decoration:none;
+    cursor: pointer;
+    color: white;
+}
+.menu2 a:after {
+    background: #087dc2
+}
+
+.menu8 {
+    float: right; margin-right: 30px; list-style: none;
+}
+.menu8 li{
+    float: left; margin-left: 40px; padding: 17px; background: #f44336; font: 14px sans-serif; 
+}
+
+
+.result {
+    width: 50%; height: auto; border: 1px solid #f44336; margin: 0 auto; margin-top: 27px; background: white; overflow: auto; color: white; 
+}
+
+.result_par {
+     width: 95%; height: 50px; background: #087dc2; margin: 0 auto; margin-top: 11px; list-style: none; margin-bottom: 11px;
+}
+
+.result_par li {
+    float: left; margin-left: 4%; margin-top: 17px; font: 14px sans-serif; 
+}
+
+.result_win {
+    
+}
+
+.buy {
+width: 350px; height: auto; background: #087dc2; margin: 0 auto; padding: 10px; margin-top: 4%; margin-bottom: 8%    
+}
+
+.buy_but {
+    list-style: none; font: 14px sans-serif; text-decoration: none; color: white;
+}
+.buy a{
+color: #dddddd; font: 20px sans-serif; text-decoration: none;  
+}
+.buy b{
+color: white; font: 14px sans-serif; text-decoration: none;  
+}
+
+.menu22 {
+    float: right; list-style: none; margin-right: 15px; margin-top: 14px;
+}
+
+.buy_par {
+     width: 55px; height: 23px; background: #f44336; float: right; margin-top: 14px; margin-right: 13px; color: white;
+}
+.buy_par a{
+     margin-left: 5px; margin-top: 3px; display: block;
+}
+.reg_par d{
+    float: right; margin-right: 27px; font: 14px sans-serif;
+}
+
